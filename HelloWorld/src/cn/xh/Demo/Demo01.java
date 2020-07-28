@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Demo01 {
     public static void main(String[] args) {
         System.out.println("hello world! ");
+        System.out.println("haha");
         Scanner input=new Scanner(System.in);
         int num=input.nextInt();
         System.out.println(num);
